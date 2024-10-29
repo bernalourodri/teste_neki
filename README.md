@@ -9,7 +9,7 @@
 
 ## Observações de comandos fixos
 ### Além das perguntas aleatórias, temos mais dois prompts fixos:
-* "do que se trata" : ao digitar essa frase o sistema irá responder sobre o tema do texto. Abaixo os tópicos que o sistema reconhece:         ["família", "romance", "suspense", "educação", "história",
+* "do que se trata" : ao digitar essa frase o sistema irá responder sobre o tema do texto. A seguir os tópicos que o sistema reconhece:         ["família", "romance", "suspense", "educação", "história",
     "aventura", "mistério", "thriller", "terror", "policial",
     "drama", "biografia", "comédia", "fantasia", "ficção científica",
     "autoajuda", "ensino", "ensaios", "artigos", "relato",
