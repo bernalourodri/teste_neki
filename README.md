@@ -7,4 +7,6 @@
 * Quarto passo: Na caixa de texto mais acima faça perguntas para o sistema sobre o texto que está contido no arquivo pdf(Sugestão: Faça perguntas diretas) e depois click no botão __Perguntar__
 * Quinto passo: Sua responta irá aparecer na caixa de texto maior mais abaixo. Caso queira fazer outra pergunta apenas digite novamente a outra pergunta e click novamente no botão __Perguntar__ ou se quiser selecionar outro arquivo click no botão __Carregar PDF__ e selecione outro arquivo.
 
+## Observações de comandos fixos
+
 
