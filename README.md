@@ -8,5 +8,14 @@
 * Quinto passo: Sua responta irá aparecer na caixa de texto maior mais abaixo. Caso queira fazer outra pergunta apenas digite novamente a outra pergunta e click novamente no botão __Perguntar__ ou se quiser selecionar outro arquivo click no botão __Carregar PDF__ e selecione outro arquivo.
 
 ## Observações de comandos fixos
+### Além das perguntas aleatórias, temos mais dois prompts fixos:
+* "do que se trata" : ao digitar essa frase o sistema irá responder sobre o tema do texto. Abaixo os tópicos que o sistema reconhece:
+temas = ["família", "romance", "suspense", "educação", "história",
+    "aventura", "mistério", "thriller", "terror", "policial",
+    "drama", "biografia", "comédia", "fantasia", "ficção científica",
+    "autoajuda", "ensino", "ensaios", "artigos", "relato",
+    "jornalismo", "documentário", "teatro"]
+  
+  
 
 
